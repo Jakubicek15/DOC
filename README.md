@@ -10,3 +10,5 @@ Script is in **beta** version, i will **update** it later. ❗
 - Install done. Have Fun! 😉
 
 **Thanks for download.** 💖
+
+You can support me on **PayPal:** kuba.tom@icloud.com
