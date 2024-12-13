@@ -17,7 +17,7 @@ You can support me on **PayPal:** kuba.tom@icloud.com
 
 And what is DOC? 
 DOC is a script that starts counting by seconds according to a given number.
-You can check it on **Preview.png**
+You can check it on **Preview.png**: https://github.com/Jakubicek15/DOC/blob/main/Preview.png
 
 Example:
 
